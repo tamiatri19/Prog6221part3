@@ -1,0 +1,9 @@
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\RecipeManagerWPF_MarkupCompile.cache
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\RecipeManagerWPF.g.resources
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\RecipeManagerWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\RecipeManagerWPF.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\RecipeManagerWPF.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\RecipeManagerWPF\RecipeManagerWPF\obj\Debug\net8.0-windows\RecipeManagerWPF.csproj.CoreCompileInputs.cache
