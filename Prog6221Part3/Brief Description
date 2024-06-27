@@ -1,0 +1,10 @@
+Changes that have been made:
+Event Handling for Calorie Limits: The CaloriesExceeded event is introduced in the RecipeManager class, which triggers when a recipe's total calories exceed 300. The Program class subscribes to this event and provides an event handler RecipeManager_CaloriesExceeded to display a warning message.
+
+Recipe Management: The RecipeManager class includes methods to enter new recipes, list all recipes, display a selected recipe, and clear all data. When entering a new recipe, the total calories are calculated, and if they exceed the limit, the CaloriesExceeded event is triggered.
+
+Input Validation: The EnterNewRecipe method includes comprehensive input validation for the recipe's name, number of ingredients, quantity, unit, calories, food group, and steps.
+
+User Interaction: The Program class provides a menu-driven interface for users to interact with the application, allowing them to enter new recipes, list recipes, select and display a recipe, clear data, or exit the application.
+
+These changes improve the functionality by adding calorie tracking and validation, enhancing user interaction, and implementing event-driven programming for better code organization and readability.
