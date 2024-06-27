@@ -36,3 +36,5 @@ Click "Build" > "Build Solution" to compile the project.
 Fix any compilation errors that may appear.
 Once successfully built, click "Debug" > "Start Debugging" or press F5 to run the application.
 Your application should now open, allowing you to interact with the Recipe Manager through the UI. Each button triggers its respective method, displaying outputs in the txtOutput TextBox.
+
+link to respository:https://github.com/tamiatri19/Prog6221part3/blob/main/Prog6221Part3/Brief%20Description
